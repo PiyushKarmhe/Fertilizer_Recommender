@@ -1,3 +1,0 @@
-fastapi[all]
-pydantic
-scikit-learn
